@@ -1,6 +1,6 @@
 package project;
 
-public class Addition
+public class Addition//maven example
 {
 	public static void main(String args[])
 	{

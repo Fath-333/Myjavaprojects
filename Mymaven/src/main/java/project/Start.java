@@ -1,6 +1,7 @@
 package project;
 
-public class Start {
+public class Start//maven example
+{
 	public static void main(String args[])
 	{
 	String s1="Fruit";
